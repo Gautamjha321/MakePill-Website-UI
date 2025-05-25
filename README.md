@@ -15,17 +15,17 @@ A modern, clean, and responsive **UI clone** of the MakePill website built using
 
 > Add your screenshots here if available  
 > _Example_:  
-![Homepage Preview](./screenshots/homepage.png)
+![Homepage Preview](image.png)
 
 ## 🛠️ Tech Stack
 
 - HTML5  
 - CSS3  
-- JavaScript (Vanilla JS)
+- JavaScript 
 
 ## 🚀 Live Demo
 
-[🔗 View Live Demo](https://your-live-site-link.com)
+[🔗 View Live Demo](https://make-pill-website-ui.vercel.app/)
 
 ## 📁 Folder Structure
 
@@ -54,7 +54,7 @@ This project is for educational and portfolio purposes only. Not intended for co
 
 ---
 
-### Developed with ❤️ by [Gautam Kumar Jha](https://www.linkedin.com/in/gautam-kumar-jha)
+### Developed with ❤️ by [Gautam Kumar Jha](https://www.linkedin.com/in/gautam-jha-77111634b/)
 
 
 
